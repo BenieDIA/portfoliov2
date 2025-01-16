@@ -1,0 +1,2 @@
+css background : linear-gradient(to right, rgb(255,255,255), rgb(6, 66, 114));
+https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js
